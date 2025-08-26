@@ -24,5 +24,4 @@ By purchasing a subscription, you acknowledge that you have read and agreed to t
 This agreement is governed by the laws and regulations of the country or region where the developer is located.
 ## 8. Contact Information
 If you have any questions or suggestions regarding this agreement, please contact us at: artclockapp@outlook.com.<br>
-
 We reserve the right to modify this agreement when necessary and publish the changes within the app or in the update notes. Users will be prompted to acknowledge major changes. The modified terms take effect from the date of publication, and continued use of the app constitutes acceptance of the updated terms.
