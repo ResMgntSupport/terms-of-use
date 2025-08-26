@@ -11,7 +11,8 @@ We strive to ensure the stability of the app's functions and the accuracy of tim
 ## 5. Updates and Termination
 The developer reserves the right to update, modify, suspend, or terminate the app without prior notice. Major changes will be communicated in the version update notes.
 ## 6. Premium Subscription Service
-Some advanced features of this app are available only through a Premium subscription:\n- Premium is an annual subscription service, with fees charged to your Apple ID via the App Store.<br>
+Some advanced features of this app are available only through a Premium subscription:<br>
+- Premium is an annual subscription service, with fees charged to your Apple ID via the App Store.<br>
 - Upon confirmation of purchase, the fee will be charged immediately to your App Store account.<br>
 - The subscription will automatically renew each year unless you turn off auto-renewal at least 24 hours before the end of the current billing period.<br>
 - You can manage or cancel your subscription through Settings > Apple ID > Subscriptions on your device.<br>
